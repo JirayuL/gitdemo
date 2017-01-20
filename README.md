@@ -5,4 +5,6 @@ git status - compare working directory with repository
 git add - track the file that will be commit
 git commit - update the file to the repository
 
+.gitignore - to ignore the type of useless file
+
 Jirayu Laungwilawan
